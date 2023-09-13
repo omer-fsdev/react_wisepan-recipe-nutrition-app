@@ -4,7 +4,7 @@ import {
   FoodInput,
   FormContainer,
   HeaderContainer,
-  MainHeader,
+  // MainHeader,
   Select,
 } from "./HeaderStyle";
 
