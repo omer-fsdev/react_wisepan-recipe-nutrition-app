@@ -1,0 +1,28 @@
+.footer-div {
+    width: 80vw;
+    min-width: 450px;
+    background-color: White;
+    min-height: 100px;
+    font-size: 2rem;
+    color: #544c49;
+    border: 0.5px solid #fc8c04;
+    border-radius: 5px;
+    margin: 50px auto 60px auto;
+    height: 55px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .brand {
+    color: #241c14;
+    font-weight: bold;
+    font-style: italic;
+    margin: auto 2rem auto 1rem;
+   
+  }
+  .brand:hover{
+    cursor: pointer;
+    color: #fc8c04;
+  }
