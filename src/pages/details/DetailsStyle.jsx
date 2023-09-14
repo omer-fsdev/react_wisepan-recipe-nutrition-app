@@ -99,6 +99,9 @@ export const IngredContainer = styled.div`
   span {
     color: #fc8c04;
   }
+  @media (max-width: 768px) {
+    max-width: 400px;
+    }
 `;
 
 export const Nutrients = styled.div`
