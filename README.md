@@ -1,4 +1,4 @@
-# Wise-Pan: Recipe & Nutrition App
+# [Wise-Pan](https://wise-pan.netlify.app): Recipe & Nutrition App
 
 Wise-Pan is a web application for finding recipes, viewing their nutritional information, and accessing articles about nutrition. Users can log in, search for recipes, and explore nutrition-related content.
 
@@ -45,6 +45,12 @@ Wise-Pan is a web application for finding recipes, viewing their nutritional inf
 
 4. The website should now be accessible at http://localhost:3000.
 
+- Username: user1
+- Password: 1234
+
 ## Live Website
 
-Visit the deployed website at []() to explore the application.
+Visit the deployed website at [https://wise-pan.netlify.app](https://wise-pan.netlify.app) to explore the application.
+
+- Username: user1
+- Password: 1234
