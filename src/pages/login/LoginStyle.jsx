@@ -15,7 +15,7 @@ export const LoginContainer = styled.div`
 export const FormContainer = styled.div`
   width: 550px;
   min-width: 550px;
-  height: 550px;
+  height: 500px;
   background-color: rgb(252, 140, 4, 0.5);
   border-radius: 30%;
   border: 2px solid #e1f1dd;
