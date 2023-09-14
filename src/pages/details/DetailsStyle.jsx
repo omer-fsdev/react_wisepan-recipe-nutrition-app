@@ -101,6 +101,7 @@ export const IngredContainer = styled.div`
   }
   @media (max-width: 768px) {
     max-width: 400px;
+    font-size: 1.5rem;
     }
 `;
 
