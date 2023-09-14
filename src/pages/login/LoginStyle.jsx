@@ -13,9 +13,9 @@ export const LoginContainer = styled.div`
 `;
 
 export const FormContainer = styled.div`
-  width: 600px;
-  min-width: 600px;
-  height: 600px;
+  width: 550px;
+  min-width: 550px;
+  height: 550px;
   background-color: rgb(252, 140, 4, 0.5);
   border-radius: 30%;
   border: 2px solid #e1f1dd;
@@ -29,8 +29,7 @@ export const FormContainer = styled.div`
 export const Header = styled.h1`
   color: #241c14;
   font-family: "Courier New", monospace;
-  font-size: 2.6rem;
-  
+  font-size: 2.5rem;
 `;
 
 export const StyledInput = styled.input`
@@ -49,7 +48,7 @@ export const StyledInput = styled.input`
 
 export const StyledForm = styled.form`
   background: #ffc844;
-  border-radius:30px;
+  border-radius: 30px;
   display: flex;
   flex-direction: column;
 `;
@@ -72,5 +71,5 @@ export const StyledButton = styled.button`
 `;
 
 export const StyledImg = styled.img`
-  width: 100px;
+  width: 90px;
 `;
