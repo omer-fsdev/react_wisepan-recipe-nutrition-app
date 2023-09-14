@@ -30,6 +30,9 @@ export const Header = styled.h1`
   color: #241c14;
   font-family: "Courier New", monospace;
   font-size: 2.5rem;
+  @media (max-width: 768px){
+    font-size: 2rem;
+  }
 `;
 
 export const StyledInput = styled.input`
